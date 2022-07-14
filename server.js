@@ -6,7 +6,7 @@ const path = require('path');
 const cors = require('cors');
 // Cors 
 const corsOptions = {
-  origin: process.env.ALLOWED_CLIENTS
+  origin: "https://gshare.netlify.app"
 }
 
 // Default configuration looks like
