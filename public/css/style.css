@@ -1,5 +1,5 @@
 :root {
-    --main-bg-color: #edf5fe;
+    --main-bg-color: #14365D;
     --light-blue: #03a9f4;
     --dark-blue: #028bca;
   }
@@ -22,7 +22,7 @@
     width: 150px;
   }
 section.download {
-    background: #fff;
+    background: #D85C29;
     width: 430px;
     max-width: 90%;
     border-radius: 25px;
