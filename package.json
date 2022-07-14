@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon server",
     "serve": "node server",
-    "start": "nodemon server"
+    "start": "node server"
   },
   "dependencies": {
     "cors": "^2.8.5",
